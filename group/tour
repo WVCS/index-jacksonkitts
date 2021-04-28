@@ -1,1 +1,245 @@
+<html>
+
+<body>
+  <center>
+  <ul class="nav"> 
+    <li class="nav"><a href="../home"> Home </a></li>
+   <li class="nav"> <a href="songs"> Songs </a> </li>
+    <li class="nav"> <a href="tour"> Tour </a> </li>
+  </ul>
+  </center>
+  
+  
+  
+  <center>
+  <h1> 1964 WORLD TOUR </h1>
+  </center>
+  
+  <center>
+<table>
+  <tr>
+    <th>Date</th>
+    <th>Location </th>
+  </tr>
+  <tr>
+    <td>June 4th</td>
+    <td>Copenhagen, Denmark</td>
+  </tr>
+  <tr>
+    <td>June 5th</td>
+    <td>Hillegom, Netherlands</td>
+  </tr>
+  <tr>
+    <td>June 6th</td>
+    <td>Amsterdam, Netherlands</td>
+  </tr>
+  <tr>
+    <td>June 6th</td>
+    <td>Blokker, Netherland</td>
+  </tr>
+  <tr>
+    <td>June 10th</td>
+    <td>Hong Kong, China</td>
+  </tr>
+  <tr>
+    <td>June 12th</td>
+    <td>Adelaide, Australia</td>
+  </tr>
+  <tr>
+    <td>June 15th</td>
+    <td>Melbourne, Australia</td>
+  </tr>
+  <tr>
+    <td>June 18th</td>
+    <td>Sydney, Australia</td>
+  </tr>
+  <tr>
+    <td>June 22th</td>
+    <td>Wellington, Australia</td>
+  </tr>
+  <tr>
+    <td>June 24th</td>
+    <td>Auckland, New Zealand</td>
+  </tr>
+  <tr>
+    <td>June 26th</td>
+    <td>Dunedin, New Zealand</td>
+  </tr>
+  <tr>
+    <td>June 27th</td>
+    <td>Christchurch, New Zealand</td>
+  </tr>
+  <tr>
+    <td>June 29th</td>
+    <td>Brisbane, Australia</td>
+  </tr>
+  <tr>
+    <td>July 12th</td>
+    <td>Brighton, England</td>
+  </tr>
+  <tr>
+    <td>June 19th</td>
+    <td>Blackpool, England</td>
+  </tr>
+  <tr>
+    <td>June 23th</td>
+    <td>London, England</td>
+  </tr>
+  <tr>
+    <td>June 26th</td>
+    <td>Blackpool, England</td>
+  </tr>
+  <tr>
+    <td>June 28th</td>
+    <td>Stockholm, Sweden</td>
+  </tr>
+  <tr>
+    <td>August 2th</td>
+    <td>Bournemouth, England</td>
+  </tr>
+  <tr>
+    <td>August 9th</td>
+    <td>Scarborough, England</td>
+  </tr>
+  <tr>
+    <td>August 16th</td>
+    <td>Blackpool, England</td>
+  </tr>
+</table>
+  </center>
+  
+  
+  <div class="row"> 
+  <div class="column">
+    <img src="https://www.beatlesbible.com/wp/media/640211-beatles-washington-coliseum_01.jpg" style="width:100%">
+    <img src="https://www.timesreporter.com/storyimage/OH/20140208/NEWS/140209379/AR/0/Beatles.jpg">
+  </div>
+    
+    
+    <div class="column">
+    <img src="https://noogatoday.6amcity.com/wp-content/uploads/sites/9/2018/12/6a03a503fe2f8288333d52d7142bf20c48146-970x545.jpg" style="width:100%">
+    <img src="https://cdn.platinumlist.net/upload/artist/bootleg_beatles_615-mobile1535103498.jpg" style="width:100%">
+  </div>
+    
+    
+    
+    <div class="column">
+    <img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-206172-GettyImages-73906750.jpg" style="width:100%">
+    <img src="https://d.newsweek.com/en/full/498282/beatles-shea-stadium.jpg?w=1600&h=1200&q=88&f=d14aec91c5fc8811d0c41c9e56acd045" style="width:100%">
+  </div>
+    
+    
+    
+    <div class="column">
+    <img src="https://www.gannett-cdn.com/-mm-/605850785d56da7061dec86625e26a936ad4ea40/c=0-141-5573-3289/local/-/media/2016/08/18/Cincinnati/Cincinnati/636071091854065148-Beatles8a.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp" style="width:100%">
+    <img src="https://flashbak.com/wp-content/uploads/2015/01/THe-Beatles-TOTP-16th-June-1966-2-PA-105417611-1024x1008.jpg" style="width:100%">
+  </div>
+</div>
+  
+</body>
+
+
+
+
+
+<style>
+ul.nav {
+  list-style-type: none;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #A7BEAE;
+  margin: 0;
+  padding: 0;
+}
+
+
+li.nav{
+  display: inline;
+  padding: 10px;
+  margin: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: #B85042;
+  font-size: 120%;
+  font-weight: bold;
+}
+
+body {
+  background-color: #B85042;
+}
+
+
+table, td, th {
+  border: 3px solid beige;
+}
+
+table {
+  margin-top: 3%;
+  border-collapse: collapse;
+  width: 50%;
+  background: #A7BEAE;
+  border: 5px;
+}
+
+th {
+  height: 100px;
+  
+}
+
+td {
+  height: 50px;
+  vertica-align: bottom;
+  text-align: center;
+}
+tr:hover {
+  background-color: white;
+}
+
+h1 {
+  margin-top: 6%;
+  background-color: #A7BEAE;
+  width: 400px;
+  border: 5px solid beige;
+  padding: 15px;
+}
+
+
+
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column {
+  -ms-flex: 25%; /* IE10 */
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+</style>
+
+  
+  
+<html>
 
