@@ -1,5 +1,9 @@
 <html>
 
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  
 <body>
   <center>
   <ul class="nav"> 
@@ -136,8 +140,6 @@
     <img src="https://flashbak.com/wp-content/uploads/2015/01/THe-Beatles-TOTP-16th-June-1966-2-PA-105417611-1024x1008.jpg" style="width:100%">
   </div>
 </div>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 </body>
 
