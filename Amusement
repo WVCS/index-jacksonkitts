@@ -1,0 +1,99 @@
+<body>
+  <h1> GKC FEST </h1>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<div class="container">
+  <img src="https://i.ytimg.com/vi/UNH0bhY_2ug/maxresdefault.jpg" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">GKC Festival 2020</div>
+  </div>
+</div>
+  
+ <h2> So what exactly is GCK Fest? </h2>
+  
+ <p> GCK Fest takes place on Trevor Jacob's property. Trevor Jacob is an Olympic snowboarder, and he also enjoys skating, biking, and pretty much anything thats fun. Trevor bought 20 Acres in central California, and decided to build a skatepark on his house, make several dirt tracks around the house, and even bought a helicotper and made a slide. This was what started the GKC fest, as he would invite everybody he knows, and tell them to invite everyone they know, and then GCK fest was born. </p>
+  <button onclick= "topFunction()" id="topBtn"> TOP </button>
+  
+</body>
+
+<style>
+h1 {
+  font-size: 100px;
+  text-align: center;
+  color: #C4FFF9;
+}
+
+body {
+  background-color: #07BEB8;
+}
+
+.container {
+  position: relative;
+  width: 50%;
+  left: 400px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+  text-align: center;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+#topBtn {
+  display: block;
+  position: fixed;
+  bottom: 2%;
+  right: 50%;
+  font-size: 30px;
+  background-color: antiquewhite;
+  padding: 15px;
+   border: none;
+}
+
+
+#topBtn:hover { 
+border: dashed 2px #ddd; 
+}
+
+h2 { 
+font-size: 50px;
+  text-align: center;
+  color: #C4FFF9;
+}
+
+p { 
+text-align: center;
+  font-size: 30px;
+  
+}
+</style>
